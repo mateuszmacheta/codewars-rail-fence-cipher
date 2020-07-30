@@ -1,0 +1,11 @@
+C:\Users\machetam\Documents\_old\C#\codewars\rail-encoder\bin\Debug\netcoreapp2.2\rail-encoder.deps.json
+C:\Users\machetam\Documents\_old\C#\codewars\rail-encoder\bin\Debug\netcoreapp2.2\rail-encoder.runtimeconfig.json
+C:\Users\machetam\Documents\_old\C#\codewars\rail-encoder\bin\Debug\netcoreapp2.2\rail-encoder.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\C#\codewars\rail-encoder\bin\Debug\netcoreapp2.2\rail-encoder.dll
+C:\Users\machetam\Documents\_old\C#\codewars\rail-encoder\bin\Debug\netcoreapp2.2\rail-encoder.pdb
+C:\Users\machetam\Documents\_old\C#\codewars\rail-encoder\obj\Debug\netcoreapp2.2\rail-encoder.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\C#\codewars\rail-encoder\obj\Debug\netcoreapp2.2\rail-encoder.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\C#\codewars\rail-encoder\obj\Debug\netcoreapp2.2\rail-encoder.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\C#\codewars\rail-encoder\obj\Debug\netcoreapp2.2\rail-encoder.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\C#\codewars\rail-encoder\obj\Debug\netcoreapp2.2\rail-encoder.dll
+C:\Users\machetam\Documents\_old\C#\codewars\rail-encoder\obj\Debug\netcoreapp2.2\rail-encoder.pdb
